@@ -1,0 +1,22 @@
+div
+{
+display:inline;
+}
+span
+{
+display:block;
+}
+button
+{
+border-radius:40px;
+color:blue;
+border:3px solid blue;
+}
+button:hover
+{
+background-color:orange;
+}
+span
+{
+font-family:algerian;
+}
